@@ -39,13 +39,13 @@ We build for you, or DIY in 3-Easy steps: 1. Download Code for Flutter and Sprin
 
 * [EasyManage Sign-In/Sign-Up](https://easymanage.com/em) Sign-In and With 3-Easy steps, build and launch beautiful mobile apps, ready with live data.
 * Generate Code for Apps and APIs, follow [QuickStart](https://easymanage.com/emdoc/adming/EasyManage_Quickstart.html).
-* Download Generated Code For Apps and APIs and follow this Readme to setup and deploy, to launch app with live data.
+* Download Generated Code For Apps and APIs and follow this Readme to setup and deploy, to launch apps with live data.
+* Please refer to section below: <a href="#em-setup">em-setup Setup Downloaded Code</a>
 
-<p align="center">
+<p align="left">
     [Demo Screens] (https://easymanage.com/ems/eml_platform.html#screenshots) 
 </p>
 
-* <a href="#em-setup">em-setup Setup Downloaded Code</a>
 
 <a name="em-setup"></a>
 ## em-setup Setup Downloaded Code
